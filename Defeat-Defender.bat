@@ -12,11 +12,7 @@ if '%errorlevel%' NEQ '0' (
     exit
 )
 
-echo  Installing Necessary Packages.....Please Wait.....
-
 color 0a
-
-cd  %temp%
 
 set pop=%systemroot%
 
